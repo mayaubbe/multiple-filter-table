@@ -1,3 +1,7 @@
+# Multiple data filter with table
+
+Table data search as per filters
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
